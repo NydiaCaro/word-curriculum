@@ -1,0 +1,60 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+
+
+
+
+.datos{
+	padding-top: 50PX;
+
+}
+
+.acerca{
+	background: #7CEA9C;
+	padding-top: 50px; 
+	padding-left: 50px;
+	height: 100vh;
+	position: fixed;
+}
+
+.acerca a{
+	color: #071013;
+}
+
+.iconos a{
+	color: #2E2E2E;
+	font-size: 50px;
+
+	
+}
+
+.texto{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.resumen{
+	padding-left: 80px;
+}
+
+
+h1{
+	font-family: 'Lato 900', sans-serif;
+	color: #2D3047;
+}
+
+h2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: 'Lato 700', sans-serif;
+}
+
+h4{
+	font-family: 'Lato 400', sans-serif;
+}
+
+p{
+	font-family: 'Lato 300', sans-serif;
+}
+
